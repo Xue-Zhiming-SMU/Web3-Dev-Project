@@ -6,13 +6,15 @@
 
 ## Contract Details
 - **License**: MIT
-- **Solidity Version**: ^0.8.26### Structure
+- **Solidity Version**: ^0.8.26
+- ### Structure
 - **Candidate**: Struct with `CandidateVotes` and `CandidateName`.
 - **State Variables**:
  - `CandidateTrump`: Represents Trump.
  - `CandidateHarris`: Represents Harris.
 
-### Functions- `VoteForTrump()`: Vote for Trump.
+### Functions
+- `VoteForTrump()`: Vote for Trump.
 - `VoteForHarris()`: Vote for Harris.
 - `getTrumpVotes()`: Get Trump's vote count.
 - `getHarrisVotes()`: Get Harris's vote count.
