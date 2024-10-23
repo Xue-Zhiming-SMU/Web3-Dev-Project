@@ -1,4 +1,5 @@
-# Poll Smart ContractThis Solidity smart contract facilitates a simple poll between two candidates: Trump and Harris.
+# Poll Smart Contract
+# This Solidity smart contract facilitates a simple poll between two candidates: Trump and Harris.
 
 ## Features
 - **Voting**: Users can vote for either Trump or Harris.
